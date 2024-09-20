@@ -5,11 +5,37 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PDF Viewer</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+        header {
+            background-color: #4a90e2;
+            color: white;
+            width: 100%;
+            text-align: center;
+        }
+        iframe {
+            border: none;
+            width: 100%;
+            height: 100vh;
+        }
+    </style>
 </head>
 <body>
-    <h1>PDF Viewer</h1>
-    <iframe src="./Front-end-roadmap_240920_090301_240920_090442 (2).pdf" width="100%" height="600px">
-        This browser does not support PDFs. Please download the PDF to view it: 
+    <header>
+        <h1>Frontend Roadmap</h1>
+        <p>SBU WebLab</p>
+    </header>
+    <iframe src="./Front-end-roadmap_240920_090301_240920_090442 (2).pdf">
+        Your browser does not support PDFs. Please download the PDF to view it:
         <a href="./Front-end-roadmap_240920_090301_240920_090442 (2).pdf">Download PDF</a>
     </iframe>
 </body>
