@@ -10,14 +10,13 @@
 
 ### **این نقشه راه به شما کمک می‌کند تا سفر خود را در دنیای توسعه فرانت‌اند آغاز کنید.**
 
-###
+
 
 ****____**توسعه فرانت‌اند شامل تکنولوژی‌ها و مهارت‌هایی است که برای ایجاد تجربه‌های بصری در وب استفاده می‌شوند.توسعه فرانت‌اند به
 طراحی و ساخت بخش‌های قابل مشاهده وب‌سایت‌ها و برنامه‌ها اشاره دارد. این شامل سه تکنولوژی اصلی است: HTML برای ساختار
 صفحات، CSS برای زیبایی و طراحی، و JavaScript برای ایجاد تعامل و دینامیک. هدف توسعه‌دهندگان فرانت‌اند، ایجاد تجربه کاربری
 خوب و نمایش مناسب سایت‌ها در دستگاه‌های مختلف است. آشنایی با فریمورک‌ها مانند React و Angular به تسریع روند توسعه کمک
 می‌کند این نقشه شامل منابع و مطالب مفید برای یادگیری هر یک از مراحل این سفر است**____****
-
 
 
 ## 🗺️ **نقشه راه**
@@ -42,28 +41,27 @@
 | ![صفحه 16](./images/Front-end-roadmap_240920_095759_16.jpg) |
 
 
-
 ## 🔗 لینک‌های مفید
 
 ### **HTML**
 
 - [W3Schools HTML Course](https://www.w3schools.com/html/)
-- [Maktabkhoone HTML Course](https://maktabkhooneh.org/courses/html/)
+- [Maktabkhoone HTML Course](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-mk1263/)
 
 ### **CSS**
 
 - [W3Schools CSS Course](https://www.w3schools.com/css/)
-- [Toplearn CSS Course](https://toplearn.com/courses/175)
+- [Toplearn CSS Course](https://toplearn.com/courses/web-design/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-Html-%D9%88-Css)
 
 ### **JavaScript**
 
 - [W3Schools JavaScript Course](https://www.w3schools.com/js/)
-- [Webprog JavaScript Course](https://webprog.ir/courses/javascript)
+- [Webprog JavaScript Course](https://webprog.io/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-javascript-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D8%AD%D9%88%D8%B1)
 
 ### **Bootstrap**
 
 - [W3Schools Bootstrap Course](https://www.w3schools.com/bootstrap/)
-- [Adobe Bootstrap Guide](https://www.adobe.com/devnet/bootstrap.html)
+- [Adobe Bootstrap Guide](https://helpx.adobe.com/dreamweaver/using/bootstrap.html)
 - [GeeksforGeeks Bootstrap Tutorial](https://www.geeksforgeeks.org/bootstrap-tutorials/)
 
 ### **Tailwind CSS**
@@ -79,9 +77,9 @@
 
 ### **Angular**
 
-- [ALIBOU Angular Course](https://alibou.com/angular)
+- [ALIBOU Angular Course](https://aliboucoding.com/p/angular-course-step-by-step-complete-guide)
 - [Angular Documentation](https://angular.io/docs)
-- [CODEYAD Angular Course](https://codeyad.com/course/angular/)
+- [CODEYAD Angular Course](https://codeyad.com/course/learn-angular-and-typescript)
 
 ### **React.js**
 
@@ -91,7 +89,7 @@
 
 ### **Git & GitHub**
 
-- [Faradars Git Course](https://faradars.org/courses/fv9828-git-github)
+- [Faradars Git Course](https://faradars.org/courses/fvgit9609-git-github-gitlab)
 - [Roger Dudler's Git Guide](https://rogerdudler.github.io/git-guide/)
 
 
